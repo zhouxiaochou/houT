@@ -141,7 +141,7 @@ $cursor: #fff;
 
 /* reset element-ui css */
 .login-container {
-  background-image: url(../../assets/bg.jpg);
+  background-image: url(../../assets/1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   .el-input {
